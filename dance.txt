@@ -1,0 +1,4 @@
+dance right 
+dance left
+dance up
+dance down
