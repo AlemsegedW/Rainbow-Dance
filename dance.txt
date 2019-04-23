@@ -1,4 +1,6 @@
 dance right 
 dance left
+twirl your hands
 dance up
 dance down
+more dance move addes in githab
