@@ -1,4 +1,3 @@
 dance right 
 dance left
-dance up
-dance down
+two dance moves removed 
